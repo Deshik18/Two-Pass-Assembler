@@ -1,0 +1,16 @@
+LabelName 	=>	 Value
+label	=>	0
+
+Unused Labels 
+label
+
+Errors 
+Duplicate Label !! Label already exists at line num 4
+No Operand found at line num 7
+Unexpected Operand, No Operand is allowed at line num 8
+Unexpected Operand, No Operand is allowed at line num 9
+Invalid Label! at line num 10
+No such instruction! at line num 11
+No such instruction! at line num 12
+Label doesn't exist at PC 0
+Invalid Number Format in PC 1
